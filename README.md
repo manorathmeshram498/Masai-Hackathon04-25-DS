@@ -105,3 +105,6 @@ The project includes bar chart visualizations comparing model performances side-
 ---
 
 Feel free to fork, contribute, or suggest improvements! 🚀
+
+## Drive link for video explanation
+https://drive.google.com/file/d/1_ISq2pt7WfumOBdBezulYxMZByN_0so1/view?usp=sharing
